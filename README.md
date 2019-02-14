@@ -1,3 +1,4 @@
+# NOTE: temporary source of lib until maintainer merges my PR.
 # Dataclasses JSON
 
 This library provides a simple API for encoding and decoding [dataclasses](https://docs.python.org/3/library/dataclasses.html) to and from JSON.
